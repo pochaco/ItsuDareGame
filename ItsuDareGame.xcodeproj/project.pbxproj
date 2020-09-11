@@ -15,6 +15,7 @@
 		5DBB6D02250BAD1B0081013F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5DBB6D00250BAD1B0081013F /* LaunchScreen.storyboard */; };
 		5DBB6D0D250BAD1B0081013F /* ItsuDareGameTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DBB6D0C250BAD1B0081013F /* ItsuDareGameTests.swift */; };
 		5DBB6D18250BAD1B0081013F /* ItsuDareGameUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DBB6D17250BAD1B0081013F /* ItsuDareGameUITests.swift */; };
+		5DBB6D26250BAD6C0081013F /* haikei.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5DBB6D25250BAD6C0081013F /* haikei.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		5DBB6D13250BAD1B0081013F /* ItsuDareGameUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ItsuDareGameUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5DBB6D17250BAD1B0081013F /* ItsuDareGameUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItsuDareGameUITests.swift; sourceTree = "<group>"; };
 		5DBB6D19250BAD1B0081013F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5DBB6D25250BAD6C0081013F /* haikei.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = haikei.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		5DBB6CF4250BAD160081013F /* ItsuDareGame */ = {
 			isa = PBXGroup;
 			children = (
+				5DBB6D25250BAD6C0081013F /* haikei.jpg */,
 				5DBB6CF5250BAD160081013F /* AppDelegate.swift */,
 				5DBB6CF7250BAD160081013F /* SceneDelegate.swift */,
 				5DBB6CF9250BAD160081013F /* ViewController.swift */,
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5DBB6D26250BAD6C0081013F /* haikei.jpg in Resources */,
 				5DBB6D02250BAD1B0081013F /* LaunchScreen.storyboard in Resources */,
 				5DBB6CFF250BAD1B0081013F /* Assets.xcassets in Resources */,
 				5DBB6CFD250BAD160081013F /* Main.storyboard in Resources */,
